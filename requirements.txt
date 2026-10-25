@@ -1,0 +1,12 @@
+gradio>=5.0,<7.0
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+google-genai>=1.0
+python-dotenv>=1.0
+# 執行原始分析程式另外需要：
+xgboost>=2.0
+PyWavelets>=1.6
+seaborn>=0.13
+openpyxl>=3.1

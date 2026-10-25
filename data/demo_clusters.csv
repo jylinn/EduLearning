@@ -1,0 +1,5 @@
+user_sn,xgb_cluster_name,Pause_freq,SkippingBackward_freq,SkippingForward_freq,Seek_ratio,Pause_ratio,Speed_change_ratio,video_finish_rate_mean
+DEMO-001,Advanced,2,1,4,0.10,0.05,0.03,0.95
+DEMO-002,Diligent,9,8,2,0.24,0.17,0.04,0.88
+DEMO-003,Persistent,12,10,6,0.35,0.20,0.09,0.69
+DEMO-004,Indifferent,1,0,5,0.50,0.03,0.20,0.42
